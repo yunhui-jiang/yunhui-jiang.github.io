@@ -30,7 +30,7 @@ I am always open to discussions and potential collaborations. If you're interest
 For more details, please refer to my [<a href="/_pages/CVandCourseProjects/JYH_CV.pdf" target="_blank" rel="noopener noreferrer" style="color: inherit;">CV</a>].
 
 # 🧐 Research Interests
-- **Low-cost photoacoustic–ultrasound dual-modality imaging systems**  
+- **Photoacoustic-ultrasound dual-modal imaging and system integration**  
 - **Flexible photoacoustic patch imaging**  
 - **Biomedical applications**, including structural imaging, functional evaluation, and neuromodulation
   
