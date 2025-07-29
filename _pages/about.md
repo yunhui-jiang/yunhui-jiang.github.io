@@ -25,7 +25,7 @@ My graduate studies are supported by the ShanghaiTech University Scholarship and
 
 Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at <a href="https://dianxin.xupt.edu.cn/" target="_blank" rel="noopener noreferrer" style="color: inherit;">the School of Electronic Engineering, Xi’an University of Posts and Telecommunications(XUPT)</a>, under the guidance of <a href="https://gr.xupt.edu.cn/info/1212/6732.htm" target="_blank" rel="noopener noreferrer" style="color: inherit;">Prof. Shuyuan Lyu</a>, <a href="https://gr.xupt.edu.cn/info/1209/6737.htm" target="_blank" rel="noopener noreferrer" style="color: inherit;">Prof. Kaili Ren</a> and <a href="https://gr.xupt.edu.cn/info/1211/6704.htm" target="_blank" rel="noopener noreferrer" style="color: inherit;">Dr. Shaoqing Wang</a>. 
 
-I am always open to discussions and potential collaborations. If you're interested in any aspect of my work, feel free to contact me at jiang_yunhui99[at]163.com. 
+I am always open to discussions and potential collaborations. If you're interested in any aspect of my work, feel free to contact me at jiangyh2022[at]shanghaitech.edu.cn. 
 
 For more details, please refer to my [<a href="/_pages/CVandCourseProjects/JYH_CV.pdf" target="_blank" rel="noopener noreferrer" style="color: inherit;">CV</a>].
 
