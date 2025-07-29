@@ -33,7 +33,7 @@ window.MathJax = {
      </div>
       - Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse
       - Streamlined the fabrication process using black PVC tape, achieved high reproducibility and low cost
-      - Validated signal stability and dual-modal imaging performance through *ex vivo* and <div>in vivo</div> experiments on various phantoms and human tissues
+      - Validated signal stability and dual-modal imaging performance through *ex vivo* and *in vivo* experiments on various phantoms and human tissues
 
 3. Noninvasive Intracranial Pressure(ICP) Monitoring via Transcranial Photoacoustic Imaging
      <div style="display: flex; justify-content: space-between; font-style: italic;">
@@ -41,7 +41,7 @@ window.MathJax = {
         <div>Aug. 2024 – Feb. 2025</div>
      </div>
       - Developed a customized photoacoustic imaging platform integrating a tunable NIR laser, linear-array ultrasound probe, high-speed DAQ, and a stabilized transcranial probe mount
-      - Conducted <div>in vivo</div> transcranial photoacoustic imaging experiments on human volunteers with physicians, synchronized with invasive ICP monitoring to enable validation against clinical gold-standard measurements
+      - Conducted *in vivo* transcranial photoacoustic imaging experiments on human volunteers with physicians, synchronized with invasive ICP monitoring to enable validation against clinical gold-standard measurements
       - Developed a linear regression model correlating photoacoustic-derived $\mathrm{sO}_2$ with measured ICP, demonstrated a strong inverse relationship
 
 4. Development and Integration of Data Acquisition(DAQ) for Real-Time Photoacoustic Imaging
@@ -51,18 +51,24 @@ window.MathJax = {
      </div>
       - Diagnosed and resolved key signal acquisition issues in a designed DAQ system for stable data capture
       - Integrated DAQ into the photoacoustic imaging system for optimized performance
-      - Conducted \textit{ex vivo} and \textit{in vivo} experiments to validate acquisition stability and imaging quality in functional and structural imaging
+      - Conducted *ex vivo* and *in vivo* experiments to validate acquisition stability and imaging quality in functional and structural imaging
       
       
-
-
 
 
 
 
 <h1> 📃 Course Projects  </h1>
 
-1. Mini Review: Algorithms for Photonic Spiking Neural Networks[<a href="/_pages/CVandCourseProjects/CourseReview.pdf " target="_blank">PDF</a>]
+1. Speckle Imaging through Scattering Layers[<a href="/_pages/CVandCourseProjects/BiomedicalProject.pdf " target="_blank">PDF</a>]
+     <div style="display: flex; justify-content: space-between; font-style: italic;">
+        <div>Primary contributor, Course: Biomedical Photonics and Imaging</div>
+        <div>Sept. 2024 – Jan. 2025</div>
+     </div>
+      - Reproduced speckle imaging methods using memory effect for optical reconstruction
+      - Evaluated imaging methods for high-resolution, wide-FoV reconstruction, validating performance under dynamic and complex scattering conditions
+
+2. Mini Review: Algorithms for Photonic Spiking Neural Networks[<a href="/_pages/CVandCourseProjects/CourseReview.pdf " target="_blank">PDF</a>]
      <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Course-based Research Project under Prof. Cheng Wang, Course: Optical Computing and Optical Neural Networks</div>
         <div>Sept. 2022 – May. 2023</div>
@@ -70,14 +76,6 @@ window.MathJax = {
       - Reviewed spiking neuron models in biology and photonics for neuromorphic computing frameworks
       - Analyzed spike encoding and photonic spike timing dependent plasticity mechanisms implemented via semiconductor optical amplifiers and electro-absorption modulators
       - Evaluated photonic spiking neural networks for fully optical implementations and proposed enhancements to spike-based supervised learning algorithms
-
-2. Speckle Imaging through Scattering Layers[<a href="/_pages/CVandCourseProjects/BiomedicalProject.pdf " target="_blank">PDF</a>]
-     <div style="display: flex; justify-content: space-between; font-style: italic;">
-        <div>Primary contributor, Course: Biomedical Photonics and Imaging</div>
-        <div>Sept. 2024 – Jan. 2025</div>
-     </div>
-      - Reproduced speckle imaging methods using memory effect for optical reconstruction
-      - Evaluated imaging methods for high-resolution, wide-FoV reconstruction, validating performance under dynamic and complex scattering conditions
 
 
 
