@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunhui Jiang"
-description              : "Strive to become a better man."
+# description              : "Strive to become a better man."
 repository               : "yunhui-jiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunhui Jiang"
   avatar           : "/images/ProfilePicture.jpg"
-  bio              : "Yunhui Jiang's journey through university"
-  location         : "Shanghai, China"
+  bio              : "Research assistant, University of Science and Technology of China"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
