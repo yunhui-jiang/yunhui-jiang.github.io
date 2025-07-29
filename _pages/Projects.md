@@ -33,7 +33,7 @@ window.MathJax = {
      </div>
       - Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse
       - Streamlined the fabrication process using black PVC tape, achieved high reproducibility and low cost
-      - Validated signal stability and dual-modal imaging performance through <div>ex vivo</div> and <div>in vivo</div> experiments on various phantoms and human tissues
+      - Validated signal stability and dual-modal imaging performance through *ex vivo* and <div>in vivo</div> experiments on various phantoms and human tissues
 
 3. Noninvasive Intracranial Pressure(ICP) Monitoring via Transcranial Photoacoustic Imaging
      <div style="display: flex; justify-content: space-between; font-style: italic;">
