@@ -24,6 +24,7 @@ permalink: /honors-and-awards/
 
 
 # 🏆 Honors
+- *Nov. 2025*: Completed the Nanjing Marathon.
 - *June 2025*: Outstanding Graduate, ShanghaiTech University.
 - *Apr. 2025*: Outstanding Teaching Assistant, ShanghaiTech University.
 - *Jan. 2025*: Completed the 100 km MacLehose Trail in Hong Kong.
