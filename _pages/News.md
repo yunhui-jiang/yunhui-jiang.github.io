@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 # 🔥 News
-- *Mar. 20, 2026*: &nbsp;😀😀 Attended Prof. Vasilis Ntziachristos’s lecture at ShanghaiTech University and had the opportunity to speak with him afterward.
+- *Mar. 20, 2026*: &nbsp;😀😀 Attended <a href="https://www.professoren.tum.de/en/ntziachristos-vasilis/" target="_blank" rel="noopener noreferrer" style="color: inherit;">Prof. Vasilis Ntziachristos</a>’s lecture at ShanghaiTech University and had the opportunity to speak with him afterward.
 - *June 28, 2025*: &nbsp;🎉🎉 Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.
 - *June 12, 2025*: &nbsp;🎉🎉 One paper was accepted by Optics Letters (OL). Congratulations!
 - *May 09, 2025*: &nbsp;🎉🎉 Successfully completed my master's thesis defense. Congratulations!
