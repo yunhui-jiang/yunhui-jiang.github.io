@@ -24,6 +24,8 @@ permalink: /honors-and-awards/
 
 
 # 🏆 Honors
+- *June 2026*: Summited Dafeng Peak (5,025 m), Mount Siguniang.
+- *May 2026*: Completed the Qianba Trekking Route in Zhejiang Province.
 - *Nov. 2025*: Completed the Nanjing Marathon.
 - *June 2025*: Outstanding Graduate, ShanghaiTech University.
 - *Apr. 2025*: Outstanding Teaching Assistant, ShanghaiTech University.
