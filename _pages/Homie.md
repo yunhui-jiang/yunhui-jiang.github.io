@@ -57,7 +57,7 @@ permalink: /homie/
     <img src="/images/friends/YoushenXiao.png" alt="Youshen Xiao">
     <div class="friend-info">
       <h4>Youshen Xiao</h4>
-      <p>2023MS@ShanghaiTech</p>
+      <p>2026 PhD@Peking University</p>
     </div>
   </a>
 
