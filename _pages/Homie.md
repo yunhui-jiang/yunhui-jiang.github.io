@@ -61,6 +61,15 @@ permalink: /homie/
     </div>
   </a>
 
+  <div class="friend-card-container">
+  <a href="https://zhengyuwei123.github.io/#about-me" target="_blank" class="friend-card">
+    <img src="/images/friends/Yves.jpg" alt="Yuwei Zheng (Yves)">
+    <div class="friend-info">
+      <h4>Yuwei Zheng (Yves)</h4>
+      <p>2026 PhD@University of Michigan-Ann Arbor</p>
+    </div>
+  </a>
+
 <!--
   <a href="https://somefriend.github.io/" target="_blank" class="friend-card">
     <img src="/images/friends/friend2.png" alt="Another Friend">
